@@ -1,8 +1,8 @@
 [![Build Status - Master](https://travis-ci.org/juju4/ansible-win-services.svg?branch=master)](https://travis-ci.org/juju4/ansible-win-services)
 [![Build Status - Devel](https://travis-ci.org/juju4/ansible-win-services.svg?branch=devel)](https://travis-ci.org/juju4/ansible-win-services/branches)(Syntax Only)
 
-[![Appveyor - Master](https://ci.appveyor.com/api/projects/status/ie1enn168innvjon?svg=true)](https://ci.appveyor.com/project/juju4/ansible-win-services)
-![Appveyor - Devel](https://ci.appveyor.com/api/projects/status/ie1enn168innvjon/branch/devel?svg=true)
+[![Appveyor - Master](https://ci.appveyor.com/api/projects/status/q5xmo6e1ijns8t05?svg=true)](https://ci.appveyor.com/project/juju4/ansible-win-services)
+![Appveyor - Devel](https://ci.appveyor.com/api/projects/status/q5xmo6e1ijns8t05/branch/devel?svg=true)
 
 # Windows services ansible role
 
