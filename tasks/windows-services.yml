@@ -10,24 +10,24 @@
         name: "{{ item }}"
         start_mode: disabled
         state: stopped
-      with_items: "{{ harden_win_services_disable }}"
+      with_items: "{{ win_services_disable }}"
       ignore_errors: true
 
     - name: Set some services in manual start
       win_service:
         name: "{{ item }}"
         start_mode: manual
-      with_items: "{{ harden_win_services_manual }}"
+      with_items: "{{ win_services_manual }}"
       ignore_errors: true
 
     - name: Set some services in automatic start
       win_service:
         name: "{{ item }}"
         start_mode: auto
-      with_items: "{{ harden_win_services_automatic }}"
+      with_items: "{{ win_services_automatic }}"
       ignore_errors: true
 
-  when: harden_win_services is defined and harden_win_services
+  when: win_services is defined and win_services
   tags:
     - services
 
