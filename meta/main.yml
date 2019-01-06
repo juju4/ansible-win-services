@@ -1,5 +1,6 @@
 ---
 galaxy_info:
+  role_name: win_services
   author: juju4
   description: setup host services on Windows system
   license: BSD
