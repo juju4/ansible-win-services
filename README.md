@@ -57,6 +57,12 @@ $ ansible -i .vagrant/provisioners/ansible/inventory/vagrant_ansible_inventory -
 
 ## FAQ
 
+Reference links
+* http://www.marksanborn.net/howto/turn-off-unnecessary-windows-services/
+* http://www.7tutorials.com/which-windows-services-are-safe-disable-when
+* http://www.blackviper.com/service-configurations/black-vipers-windows-10-service-configurations/
+* https://blogs.technet.microsoft.com/secguide/2017/05/29/guidance-on-disabling-system-services-on-windows-server-2016-with-desktop-experience/
+
 ## License
 
 BSD 2-clause
