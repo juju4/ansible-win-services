@@ -1,6 +1,7 @@
 ---
 
-- block:
+- name: Services
+  block:
     - name: Disable unnecessary services
       win_service:
         name: "{{ item }}"
