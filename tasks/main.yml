@@ -1,4 +1,5 @@
 ---
 
-- include: windows-services.yml
+- name: Import windows-services
+  ansible.builtin.import_tasks: windows-services.yml
   when: ansible_os_family == "Windows"

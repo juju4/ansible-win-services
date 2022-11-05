@@ -4,7 +4,7 @@ galaxy_info:
   author: juju4
   description: setup host services on Windows system
   license: BSD
-  min_ansible_version: 2.3
+  min_ansible_version: '2.3'
   platforms:
     - name: Windows
       versions:
