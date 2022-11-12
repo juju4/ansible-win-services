@@ -1,3 +1,5 @@
+[![Actions Status - Master](https://github.com/juju4/ansible-win-services/workflows/lint/badge.svg)](https://github.com/juju4/ansible-win-services/actions?query=branch%3Amaster)
+[![Actions Status - Devel](https://github.com/juju4/ansible-win-services/workflows/lint/badge.svg?branch=devel)](https://github.com/juju4/ansible-win-services/actions?query=branch%3Adevel)
 [![Appveyor - Master](https://ci.appveyor.com/api/projects/status/q5xmo6e1ijns8t05/branch/master?svg=true)](https://ci.appveyor.com/project/juju4/ansible-win-services/branch/master)
 [![Appveyor - Devel](https://ci.appveyor.com/api/projects/status/q5xmo6e1ijns8t05/branch/devel?svg=true)](https://ci.appveyor.com/project/juju4/ansible-win-services/branch/devel)
 
